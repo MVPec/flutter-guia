@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "433956720192",
+    "firebase_url": "https://winncar-aa8ba.firebaseio.com",
+    "project_id": "winncar-aa8ba",
+    "storage_bucket": "winncar-aa8ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433956720192:android:c5bf09faa58a3aec0299a5",
+        "android_client_info": {
+          "package_name": "com.example.winncar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433956720192-ajn8pfuct35g6uifjdsd001ul2jsf3ka.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.winncar",
+            "certificate_hash": "b8abcdda325a49a019cd84b87d9b12805ecef6c4"
+          }
+        },
+        {
+          "client_id": "433956720192-tsp4kt1qkd8i76k0k41p1aj8m4rd53e0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_XmRLMPF7z5EmhWc36scdDyaOk25u7Lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433956720192-tsp4kt1qkd8i76k0k41p1aj8m4rd53e0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
